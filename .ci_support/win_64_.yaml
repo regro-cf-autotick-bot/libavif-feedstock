@@ -9,7 +9,7 @@ channel_sources:
 channel_targets:
 - conda-forge main
 dav1d:
-- 1.2.1
+- 1.5.4
 rav1e:
 - '0.8'
 svt_av1:
